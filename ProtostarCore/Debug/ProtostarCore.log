@@ -1,0 +1,8 @@
+﻿  TProtostarServer.cpp
+c:\users\user\source\repos\protostarcore\protostarcore\tprotostarserver.h(11): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdkddkver.h(215): note: см. предыдущее определение "_WIN32_WINNT"
+  ProtostarCore.cpp
+c:\users\user\source\repos\protostarcore\protostarcore\tprotostarserver.h(11): warning C4005: _WIN32_WINNT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\sdkddkver.h(215): note: см. предыдущее определение "_WIN32_WINNT"
+  Создание кода...
+  ProtostarCore.vcxproj -> C:\Users\user\source\repos\ProtostarCore\Debug\ProtostarCore.exe
