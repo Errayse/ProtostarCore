@@ -27,6 +27,12 @@
     <ClInclude Include="THTMLView.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="IHTTP.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="THTTPOne.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -39,6 +45,12 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="THTMLView.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="IHTTP.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="THTTPOne.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

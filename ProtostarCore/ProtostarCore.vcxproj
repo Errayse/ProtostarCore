@@ -148,6 +148,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="THTMLView.h" />
+    <ClInclude Include="IHTTP.h" />
+    <ClInclude Include="THTTPOne.h" />
     <ClInclude Include="TProtostarServer.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -155,6 +157,8 @@
   <ItemGroup>
     <ClCompile Include="THTMLView.cpp" />
     <ClCompile Include="ProtostarCore.cpp" />
+    <ClCompile Include="IHTTP.cpp" />
+    <ClCompile Include="THTTPOne.cpp" />
     <ClCompile Include="TProtostarServer.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
